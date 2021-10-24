@@ -274,6 +274,9 @@ button:hover {
   button {
     visibility: hidden;
   }
+  body {
+    zoom: 56%;
+  }
 }
 @media only screen and (max-width: 991px) {
   .print-area {
